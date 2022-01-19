@@ -1,0 +1,29 @@
+{
+  "menus": [
+    {
+      "key": "1",
+      "name": "McDonald",
+      "type": "fastfood"
+    },
+    {
+      "key": "2",
+      "name": "Lotteria",
+      "type": "fastfood"
+    },
+    {
+      "key": "3",
+      "name": "BurgerKing",
+      "type": "fastfood"
+    },
+    {
+      "key": "4",
+      "name": "MomsTouch",
+      "type": "fastfood"
+    },
+    {
+      "key": "5",
+      "name": "서브웨이",
+      "type": "fastfood"
+    }
+  ]
+}
